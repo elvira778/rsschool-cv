@@ -8,7 +8,7 @@
 I am currently studying at The Rolling Scopes School.  
 
 ## Skills
-HTML, JavaSkript, 
+HTML, JavaSkript, Git.
 
 ## Code Example
 
